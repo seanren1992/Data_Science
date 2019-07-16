@@ -3,8 +3,14 @@
 ## R Data Science
 ### Data visualization
 
+### Heatmap of the Correlations
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Heatmap%20of%20the%20Correlations.JPG)
 
+### Kmeans 
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Kmeans.JPG)
 
+### 3D perspective plots
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/R_3D.JPG)
 
 
 
@@ -14,10 +20,10 @@
 - Importing Data 
 - Curce Fitting 
 
-#### Lowess Model 
+### Lowess Model 
 ![alt text](https://github.com/David-SF2290/Data_Science/blob/master/MATLAB_Data_Science/Graph_Doc/Algo.Lowess.jpg)
 
-#### Custom Model 
+### Custom Model 
 ![alt text](https://github.com/David-SF2290/Data_Science/blob/master/MATLAB_Data_Science/Graph_Doc/Algo.Custom.jpg)
 
 - Model Predictions
