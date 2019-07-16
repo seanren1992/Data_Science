@@ -9,8 +9,8 @@
 ### Kmeans 
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Kmeans.JPG)
 
-### 3D perspective plots
-![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/R_3D.JPG)
+### Mixed effects model
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Mixed%20effects%20model.JPG)
 
 
 
