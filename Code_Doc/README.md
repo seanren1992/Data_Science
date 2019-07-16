@@ -8,4 +8,4 @@
 
 ### R Data Science
 
-- R_Correlation.R
+- R_Correlations.R
