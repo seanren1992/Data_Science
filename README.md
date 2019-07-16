@@ -9,7 +9,7 @@
 ### Kmeans 
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Kmeans.JPG)
 
-### Mixed effects model
+### Mixed Effects Model
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Mixed%20effects%20model.JPG)
 
 
