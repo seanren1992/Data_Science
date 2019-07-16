@@ -4,7 +4,7 @@
 ### Data visualization
 
 ### Heatmap of the Correlations
-![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Heatmap%20of%20the%20Correlations.JPG)
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Correlations.JPG)
 
 ### Kmeans 
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Kmeans.JPG)
