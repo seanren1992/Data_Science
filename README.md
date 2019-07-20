@@ -9,8 +9,6 @@
 ### Clustering in Machine Learning
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Cluster1.JPG)
 
-### Clustering in Machine Learning
-
 ```R
 hclust4 <- cutree(hclust, k = 4)
 plot(as.phylo(hclust), type = "unrooted", label.offset = 1,
