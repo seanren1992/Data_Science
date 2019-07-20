@@ -9,6 +9,8 @@
 ### Clustering in Machine Learning
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Cluster1.JPG)
 
+![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Cluster2.JPG)
+
 ### Kmeans 
 ![alt text](https://github.com/David-SF2290/Data_Science_R_and_MATLAB/blob/master/Graph_Doc/Kmeans.JPG)
 
